@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "タマシイレボリューション(Extended ver.)",
+  "base_artist": "Superfly",
+  "createdAt": "2026-02-17T08:57:56.751700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タマシイレボリューション(Extended ver.) - Tamashii Revolution (Extended ver.)",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/01_タマシイレボリューション(Extended_ver.)_-_Tamashii_Revolution_(Extended_ver.)_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タマシイレボリューション - Extended ver.",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/02_タマシイレボリューション_-_Extended_ver._Superfly.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タマシイレボリューション（Extended ver.）",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/03_タマシイレボリューション(Extended_ver.)_Superfly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タマシイレボリューション (Extended ver.)",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_タマシイレボリューション_(Extended_ver.)_Superfly.txt"
+    }
+  ]
+}
